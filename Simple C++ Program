@@ -1,0 +1,9 @@
+#include<iostream.h>
+#include<conio.h>
+int main()
+{
+	clrscr();
+	cout<<"\n good morning";
+	getch();
+	return 0;
+}
